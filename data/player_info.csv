@@ -4,7 +4,7 @@
 2,Chon Gi-hyeon,1999-11-16 , South Korea,Active,,"$12,299",DPS,"Genji, Tracer, Pharah, McCree",Ado
 3,Kang Jae-hwan,1998-05-11 , South Korea,Active,,"$80,415",DPS,"Tracer, Genji, Mei, Echo",Adora
 4,,1999-12-27 , Canada,Active,,"$105,783",DPS,"Genji, Pharah, Roadhog, Doomfist, Mei",Agilities
-5,Go Jae-yoon,1994-04-07 , South Korea,Active,Dallas Fuel,"$10,039",Support,"Lúcio, Mercy",Aid
+5,Go Jae-yoon,1994-04-07 , South Korea,Active,Dallas Fuel,"$10,039",CoachSupport,"Lúcio, Mercy",Aid
 6,Kwon Min-seok,1999-03-31 , South Korea,Active,,"$103,908",Support,"Zenyatta, Ana, Moira",AimGod
 7,Kim Kyung-bo,2001-07-20 , South Korea,Active,Philadelphia Fusion,"$131,662",Support,"Ana, Zenyatta, Baptiste, Moira, Brigitte",Alarm
 8,Cheng Yage,1994-03-22 , China,Active,Bilibili Gaming,"$10,736",Coach,"Mercy, Lúcio",Altering
@@ -27,11 +27,11 @@
 25,,1995-11-17 , France,Active,,"$40,698",Tank,"Reinhardt, Orisa, Winston",BenBest
 26,Kim Dong-wook,2002-01-01 , South Korea,Active,,"$67,007",Tank,"D.Va, Zarya",BiaNcA
 27,,1996-11-03 , Finland,Retired,,"$115,151",Support,"Lúcio, Mercy, Brigitte",BigG00se
-28,Kim Ji-hyeok,1999-05-28 , South Korea,Active,Los Angeles Gladiators,"$267,296",DPS,"Widowmaker, Tracer, McCree, Junkrat, Ashe",Birdring
+28,Kim Ji-hyeok,1999-05-28 , South Korea,Active,Los Angeles Gladiators,"$267,296",DPS,"Widowmaker, Tracer, McCree, Junkrat, Reaper",Birdring
 29,"Hyung-seok ""Aaron"" Kim",1994-08-28 , South Korea,Active,,"$58,379",Tank,"D.Va, Roadhog",Bischu
 30,,, United States,Active,Houston Outlaws,"$20,012",Support,"Lúcio, Mercy, Baptiste",Boink
 31,,1997-04-17 , United Kingdom,Active,,"$184,142",Support,"Zenyatta, Baptiste, Moira, Ana, Roadhog",Boombox
-32,Chae Joon-hyuk,1998-05-15 , South Korea,Active,,"$76,730",DPS,"Tracer, Widowmaker, McCree, Soldier, 76",Bunny
+32,Chae Joon-hyuk,1998-05-15 , South Korea,Retired,,"$76,730",DPS,"Tracer, Widowmaker, McCree, Soldier, 76",Bunny
 33,,, Sweden,Active,,"$12,885",Coach,"Winston, Genji, Reinhardt, Pharah",CWoosH
 34,,2001-12-04 , United States,Retired,,"$22,423",Support,"Lúcio, Mercy, Brigitte",Carcar
 35,Kim Jung-yeon,1998-08-04 , South Korea,Retired,,"$30,886",Support,"Lúcio, Mercy, Brigitte",Chara
@@ -53,14 +53,14 @@
 51,Choi Yong-jun,1999-11-05 , South Korea,Active,First Fabulous Fighter,"$7,205",TankDPS,"D.Va, Widowmaker, Sombra",DPI
 52,Song Sang-lok,1999-05-31 , South Korea,Active,Los Angeles Valiant,"$22,458",Tank,"Reinhardt, Winston, Wrecking, Ball",Dreamer
 53,Seo Dong-hyeong,2000-02-01 , South Korea,Active,,"$62,901",Tank,"D.Va, Zarya, Sigma",Daco
-54,Kim Dae-min,1996-10-04 , South Korea,Active,Guangzhou Charge,"$9,192",DPS,"Tracer, Widowmaker",Daemin
+54,Kim Dae-min,1996-10-04 , South Korea,Active,Guangzhou Charge,"$9,192",CoachDPS,"Tracer, Widowmaker",Daemin
 55,,2001-07-17 , United States,Active,Vancouver Titans,"$20,686",DPS,"Tracer, Widowmaker, Reaper",Dalton
 56,,1999-03-24 , United States,Active,Houston Outlaws,"$28,944",DPS,"Sombra, Tracer, Echo, Genji, Mei",Danteh
 57,Park Jeong-hwan,1999-01-15 , South Korea,Active,,"$96,957",Support,"Ana, Mercy, Moira",DayFly
 58,Jang Gui-un,2001-02-27 , South Korea,Active,Washington Justice,"$119,901",DPSTank,"Tracer, McCree, Widowmaker, Zarya, Genji",Decay
 59,Lu Weida,1999-07-30 , China,Active,Team CC,"$179,143",DPS,"Widowmaker, Tracer, McCree, Hanzo, Ashe",Diya
 60,,1998-07-31 , United States,Active,,"$90,327",Support,"Ana, Zenyatta, Moira, Baptiste",Dogman
-61,Kim Dong-Ha,2000-06-02 , South Korea,Active,Dallas Fuel,"$46,940",DPS,"Sombra, Pharah, Junkrat, Doomfist, Mei",Doha
+61,Kim Dong-Ha,2000-06-02 , South Korea,Active,Dallas Fuel,"$46,940",DPS,"Sombra, Pharah, Junkrat, Echo, Mei",Doha
 62,,1997-10-13 , United States,Inactive,,$123,DPS,"Genji, McCree, Widowmaker, Pharah",DreamKazper
 63,Hwang Hyeon,1997-05-16 , South Korea,Retired,,"$16,810",DPS,"Tracer, Soldier, 76, McCree, Widowmaker, Doomfist",EFFECT
 64,,1999-02-28 , Sweden,Active,New Kings,"$32,981",Tank,"D.Va, Zarya, Sigma",ELLIVOTE
@@ -133,7 +133,7 @@
 131,Yi Hu,1999-04-30 , China,Active,Chengdu Hunters,"$11,799",DPS,"Genji, Pharah, Hanzo, Doomfist, Torbjörn",JinMu
 132,Choi Dae-han,2000-11-05 , South Korea,Retired,,"$32,499",Tank,"Reinhardt, Winston, Orisa",JMAC
 133,Alhumaidi Alruwaili,, Saudi Arabia United States,Active,,"$14,962",Tank,"D.Va, Zarya, Roadhog, Sigma",KSAA
-134,,1999-08-20 , United States,Active,Los Angeles Valiant,"$93,872",DPS,"Hanzo, McCree, Widowmaker, Reaper, Mei",KSF
+134,,1999-08-20 , United States,Active,,"$93,872",DPS,"Hanzo, McCree, Widowmaker, Reaper, Mei",KSF
 135,,2000-06-17 , United Kingdom,Active,Los Angeles Valiant,"$37,572",DPS,"Widowmaker, McCree, Reaper, Hanzo",KSP
 136,Shin Woo-yeol,1998-11-09 , South Korea,Active,O2 Blast,"$56,225",Tank,"Zarya, D.Va, Sigma",Kalios
 137,Choi San-ha,2001-04-19 , South Korea,Active,O2 Blast,"$27,657",Tank,"Winston, Reinhardt, Wrecking, Ball",Karayan
@@ -145,14 +145,14 @@
 143,,1996-08-06 , United Kingdom,Active,,"$33,794",Support,"Lúcio, Mercy, Genji",Kruise
 144,Cai Shilong,2000-08-22 , China,Active,,"$100,871",DPS,"Genji, McCree, Brigitte, Hanzo, Widowmaker",Krystal
 145,Kim Dae-kuk,1991-07-13 , South Korea,Active,Florida Mayhem,"$15,534",CoachTank,"Winston, Reinhardt, Orisa",KuKi
-146,,1998-07-16 , United Kingdom,Retired,,"$22,141",DPS,"Genji, Roadhog, Hanzo, Sombra",Kyb
+146,,1998-07-16 , United Kingdom,Retired,,"$22,141",DPS,"Genji, Roadhog, Hanzo, Sombra, Brigitte",Kyb
 147,,, Brazil,Retired,,"$3,282",Tank,Reinhardt,Kyo
-148,Lee Jae-won,2001-11-05 , South Korea,Active,Shanghai Dragons,"$102,757",DPS,"Sombra, McCree, Reaper, Widowmaker, Hanzo",LIP
+148,Lee Jae-won,2001-11-05 , South Korea,Active,Shanghai Dragons,"$102,757",DPS,"Sombra, McCree, Widowmaker, Ashe, Hanzo",LIP
 149,Mun Jung-won,2001-04-02 , South Korea,Active,Los Angeles Valiant,"$26,685",Support,"Zenyatta, Ana, Moira",Lastro
 150,Huang Xin,2001-10-23 , China,Active,Chengdu Hunters,"$35,308",DPS,"Genji, Widowmaker, Tracer, McCree, Doomfist",Leave
 151,Lee Jae-gon,2001-08-29 , South Korea,Active,Shanghai Dragons,"$149,839",Support,"Lúcio, Mercy, Brigitte",LeeJaeGon
 152,Chen Jingyi,2001-07-30 , China,Active,Team Chaser,"$37,372",Support,"Lúcio, Ana, Zenyatta, Baptiste",Lengsa
-153,,1999-05-21 , Finland,Active,,"$25,205",Tank,"Reinhardt, Winston, Orisa, Wrecking, Ball",LhCloudy
+153,,1999-05-21 , Finland,Active,ÄöÅ,"$25,205",Tank,"Reinhardt, Winston, Orisa, Wrecking, Ball",LhCloudy
 154,,1994-04-09 , Finland,Active,Vancouver Titans,"$43,065",DPS,"Widowmaker, Genji, McCree, Soldier, 76, Ashe",LiNkzr
 155,Kim Hae-seong,1999-07-12 , South Korea,Active,,"$257,379",DPS,"Genji, Pharah, Hanzo, Junkrat, Mei",Libero
 156,,1997-06-11 , Belgium,Active,Toronto Defiant,"$20,555",DPS,"Tracer, Soldier, 76, Widowmaker, McCree, Ashe",Logix
@@ -192,13 +192,13 @@
 190,,1997-07-29 , Norway,Active,New Kings,"$44,482",DPS,"Tracer, Ashe, Widowmaker, McCree, Soldier, 76",Onigod
 191,Chen Lizhen,1997-08-15 , China,Active,,"$14,217",Support,"Mercy, Lúcio",OnlyWish
 192,,1996-03-19 , United States,Active,,"$17,340",Support,"Lúcio, Mercy, Baptiste",Paintbrush
-193,Yang Zi-on,1998-05-15 , South Korea,Active,,"$8,534",Support,"Zenyatta, Moira, Ana",Persia
+193,Yang Zi-on,1998-05-15 , South Korea,Retired,,"$8,534",Support,"Zenyatta, Moira, Ana",Persia
 194,Kim Do-hyeon,1997-08-15 , South Korea,Active,New York Excelsior,"$203,315",DPS,"McCree, Widowmaker, Genji, Doomfist, Tracer",Pine
 195,,1996-07-21 , France,Active,Philadelphia Fusion,"$188,970",Tank,"D.Va, Sigma, Zarya, Roadhog",Poko
 196,Park Hyun-jun,2000-12-05 , South Korea,Active,,"$73,827",Tank,"Winston, Orisa, Reinhardt",Pokpo
 197,Park Joon-yeong,1999-11-19 , South Korea,Active,Seoul Dynasty,"$421,006",DPS,"Tracer, Genji, Hanzo, Pharah, Ashe",Profit
 198,Yu Sung-jun,2000-09-29 , South Korea,Active,,"$45,321",Tank,"D.Va, Zarya, Sigma",QoQ
-199,Song Ji-hoon,, South Korea,Active,Shanghai Dragons,"$42,777",CoachSupport,"Lúcio, Mercy, Baptiste",Quatermain
+199,Song Ji-hoon,, South Korea,Active,,"$42,777",CoachSupport,"Lúcio, Mercy, Baptiste",Quatermain
 200,Park Jae-ho,1999-07-07 , South Korea,Active,Los Angeles Valiant,"$27,009",Support,"Lúcio, Mercy, Brigitte",RaiN
 201,Kim Jun-keun,1998-03-30 , South Korea,Active,Dallas Fuel,"$165,975",Support,"Zenyatta, Ana, Moira, Baptiste",Rapel
 202,Kim Dong-jun,1998-07-23 , South Korea,Active,,"$558,791",DPSSupport,"Genji, Pharah, Brigitte, Baptiste, Mei",Rascal
@@ -213,7 +213,7 @@
 211,Jing Wenhao,1997-05-11 , China,Retired,Talent Transmission,"$7,518",Coach,"Winston, Reinhardt",Roshan
 212,Kim Su-min,1999-01-15 , South Korea,Active,Toronto Defiant,"$163,333",Tank,"Winston, Reinhardt, Orisa",SADO
 213,Park Jong-ryeol,1995-12-23 , South Korea,Active,Seoul Dynasty,"$266,445",DPS,"Tracer, McCree, Reaper, Sombra, Roadhog",Saebyeolbe
-214,Song Sang-hyun,2000-08-11 , South Korea,Active,,"$82,142",DPSTank,"D.Va, Roadhog, Pharah, Genji",SASIN
+214,Song Sang-hyun,2000-08-11 , South Korea,Active,,"$82,142",TankDPS,"D.Va, Zarya, Pharah, Genji",SASIN
 215,Kim Sung-jun,2000-01-12 , South Korea,Active,,"$303,616",Support,"Lúcio, Mercy, Ana",SLIME
 216,Kim Sung-hoon,1994-04-13 , South Korea,Active,,"$6,186",Coach,"Winston, Orisa, Reinhardt",SNT
 217,Kim Yeong-han,2002-05-31 , South Korea,Active,Dallas Fuel,"$73,060",DPS,"Doomfist, Genji, Pharah, Hanzo, Mei",Sp9rk1e
@@ -224,11 +224,11 @@
 222,Kim Hyang-ki,1998-06-01 , South Korea,Retired,,"$3,139",Tank,"D.Va, Roadhog",Sansam
 223,,2002-07-10 , United States,Active,,"$46,061",DPS,"Tracer, Zarya, Widowmaker, McCree, Genji",Saucy
 224,Lee Dong-Jae,2001-10-06 , South Korea,Retired,,"$22,159",DPS,"Pharah, Doomfist, Genji",Schwi
-225,,1992-07-23 , United States,Retired,,"$23,466",Flex,"Genji, Junkrat, Pharah, Hanzo, D.Va",Seagull
+225,,1992-07-23 , United States,Retired,,"$20,466",Flex,"Genji, Junkrat, Pharah, Hanzo, D.Va",Seagull
 226,Seo Min-soo,2000-07-06 , South Korea,Active,Hangzhou Spark,"$171,097",DPSTank,"Doomfist, Pharah, Hanzo, Reaper, Zarya",SeoMinSoo
 227,,2001-12-08 , Canada,Active,Vancouver Titans,"$5,835",Tank,"Orisa, Wrecking, Ball, Winston, Reinhardt",ShRedLock
 228,George Gushcha,1997-01-13 , Russia,Inactive,,"$108,267",DPS,"Genji, Pharah, Mei, Hanzo",ShaDowBurn
-229,,2001-12-10 , Sweden,Active,Atlanta Reign,"$56,855",DPS,"Tracer, Widowmaker, Reaper",SharP
+229,,2001-12-10 , Sweden,Active,Atlanta Reign,"$56,855",DPS,"Tracer, Widowmaker, Reaper, Echo, Ashe",SharP
 230,,1999-04-09 , Denmark,Active,Los Angeles Valiant,"$42,225",DPS,"Tracer, Widowmaker, Sombra, Zarya, Reaper",Shax
 231,,1998-05-12 , Finland,Retired,,"$116,850",Support,"Ana, Zenyatta, Soldier, 76, Moira, Tracer",Shaz
 232,He Junjian,2000-02-22 , China,Active,Ultra Prime Academy,"$37,120",CoachSupport,"Ana, Zenyatta",Sky
@@ -249,7 +249,7 @@
 247,Lee Ho-sung,1999-09-21 , South Korea,Active,Washington Justice,"$56,592",DPS,"Genji, Doomfist, Pharah, Tracer, Sombra",TTuba
 248,,1994-07-24 , Sweden,Retired,,"$45,573",DPS,"Genji, Soldier, 76, Pharah, Tracer, Hanzo",TviQ
 249,Lee Joo-seok,1998-02-08 , South Korea,Active,San Francisco Shock,"$446,171",Support,"Ana, Zenyatta, Baptiste, Moira, Brigitte",Twilight
-250,Fang Chao,1995-07-03 , China,Active,,"$15,207",CoachDPS,"McCree, Tracer, Widowmaker, Reaper",Undead
+250,Fang Chao,1995-07-03 , China,Active,,"$15,207",CoachDPS,"McCree, Tracer, Widowmaker, Reaper, Soldier, 76",Undead
 251,,, Canada,Active,VASTA Gaming,"$81,421",SupportManager,Lúcio,Verbo
 252,Park Min-ki,2000-04-17 , South Korea,Active,San Francisco Shock,"$544,030",Support,"Zenyatta, Baptiste, Moira, Ana",Viol2t
 253,Kang Jun-woo,1996-10-02 , South Korea,Active,Shanghai Dragons,"$214,716",Tank,"Zarya, D.Va, Sigma",Void
@@ -258,13 +258,13 @@
 256,Sung Seung-hyun,1998-01-10 , South Korea,Active,RunAway,"$94,428",Tank,"D.Va, Zarya, Roadhog, Sigma",WooHyaL
 257,Liu Junjie,1995-01-01 , China,Retired,,"$19,905",TankDPS,"Pharah, Winston, Zarya, Sombra, D.Va",Xushu
 258,Jung Ki-hyo,2001-11-02 , South Korea,Active,Dallas Fuel,"$50,030",DPS,"McCree, Soldier, 76, Widowmaker, Ashe",Xzi
-259,Jin Young-Jin,1997-11-16 , South Korea,Retired,,"$50,635",Flex,"Doomfist, Roadhog, Soldier, 76, Hanzo, Reaper",YOUNGJIN
+259,Jin Young-Jin,1997-11-16 , South Korea,Retired,,"$50,635",DPS,"Doomfist, Roadhog, Soldier, 76, Hanzo, Reaper",YOUNGJIN
 260,Kim Jun-ki,2001-06-11 , South Korea,Active,Florida Mayhem,"$45,584",DPS,"Genji, Pharah, Tracer, Echo, Mei",Yaki
 261,Jo Gyeong-mu,2001-01-29 , South Korea,Active,O2 Blast,"$19,667",Tank,"Winston, Reinhardt, Orisa",Yakpung
 262,Zhang Zhihao,1997-03-12 , China,Active,Team Chaser,"$24,885",DPS,"McCree, Soldier, 76, Tracer, Sombra, Reaper",YangXiaoLong
 263,Li Xianyao,2000-09-29 , China,Active,Chengdu HuntersTeam Chaser,"$16,519",Support,"Mercy, Lúcio, Zenyatta",Yveltal
 264,Kim Joon-hyuk,1997-10-29 , South Korea,Retired,,"$106,416",Tank,"Zarya, D.Va, Roadhog, Soldier, 76",zunba
-265,,2001-01-27 , United States,Retired,,"$26,935",DPS,"Tracer, Sombra, Genji, Mei, Hanzo",ZachaREEE
+265,,2001-01-27 , United States,Retired,,"$26,935",DPS,"Tracer, Sombra, McCree, Mei, Widowmaker",ZachaREEE
 266,,, Sweden,Retired,,"$39,211",Support,"Lúcio, Ana, Zenyatta",Zebbosai
 267,,1995-07-04 , Finland,Retired,,"$37,714",Support,"Ana, Zenyatta",Zuppeh
 268,,1995-12-11 , France,Retired,,"$61,797",DPS,"Soldier, 76, McCree, Widowmaker, Pharah, Zarya",aKm
@@ -280,7 +280,7 @@
 278,,1989-10-26 , Sweden,Retired,,"$57,694",Coach,"Reinhardt, Winston, Orisa",cocco
 279,,1989-07-29 , United States,Retired,Houston Outlaws,"$34,249",ManagerTank,D.Va,coolmatt
 280,,1993-12-27 , Denmark,Retired,Atlanta Reign,"$7,151",DPS,"Soldier, 76, Tracer, Torbjörn, Zarya, McCree",dafran
-281,,, Poland,Active,Old and Bored,"$7,101",DPS,"Genji, Widowmaker, Pharah, McCree, Bastion",danye
+281,,, Poland,Active,,"$7,101",DPS,"Genji, Widowmaker, Pharah, McCree, Bastion",danye
 282,,1989-04-29 , Spain Venezuela,Retired,,"$15,384",Support,Lúcio,dhaK
 283,Bae Min-seong,2000-02-13 , South Korea,Active,Shanghai Dragons,"$170,831",DPS,"McCree, Widowmaker, Tracer, Hanzo",diem
 284,Josue/Josh Corona,1999-05-10 , Israel Colombia,Active,Philadelphia Fusion,"$169,027",DPS,"Genji, Hanzo, Pharah, Junkrat, Roadhog",eqo
@@ -291,7 +291,7 @@
 289,,1991-12-31 , Sweden,Active,,"$18,359",DPS,"McCree, Tracer, Soldier, 76, Widowmaker, Ashe",iddqd
 290,Hong Jin-ui,1999-11-20 , South Korea,Active,Boston Uprising,"$11,186",DPS,"McCree, Widowmaker, Tracer, Ashe",im37
 291,Lee Seung-hyun,, South Korea,Active,,"$81,776",DPS,"Genji, Mei, Hanzo, Doomfist, Pharah",ivy
-292,,2001-05-21 , Sweden,Active,Los Angeles Gladiators,"$29,447",DPS,"Tracer, Pharah, Widowmaker, Ashe, Genji",kevster
+292,,2001-05-21 , Sweden,Active,Los Angeles Gladiators,"$27,215",DPS,"Tracer, Pharah, Widowmaker, Ashe, Genji",kevster
 293,Ma Tianbin,1999-07-05 , China,Active,Chengdu HuntersTeam Chaser,"$37,876",Tank,"Zarya, D.Va",lateyoung
 294,,2000-11-10 , United States,Active,,"$2,249",Tank,"Wrecking, Ball, Reinhardt, Orisa",mikeyy
 295,,1996-09-14 , United States,Active,Los Angeles Gladiators,"$538,003",Support,"Lúcio, Brigitte, Ana, Mercy, Baptiste",moth
@@ -316,6 +316,6 @@
 314,,1995-12-24 , France,Retired,,"$61,797",Support,"Zenyatta, Ana, Moira",uNKOE
 315,,1995-11-12 , Canada,Retired,Luminosity Gaming,"$12,657",Tank,"Winston, Reinhardt, Orisa",xQc
 316,Koo Jae-mo,1996-09-15 , South Korea,Active,GC Busan WAVE,"$25,754",Tank,"D.Va, Zarya, Roadhog, Sigma",xepheR
-317,,2001-04-24 , France,Active,,"$12,503",DPS,"Hanzo, Mei, Tracer, Echo, Sombra",zYKK
+317,,2001-04-24 , France,Active,ÄöÅ,"$12,503",DPS,"Hanzo, Mei, Tracer, Echo, Sombra",zYKK
 318,,1989-12-03 , Finland,Retired,,"$50,560",Flex,"Zarya, D.Va, Tracer",zappis
 319,,, Ethiopia United States,Retired,,"$39,423",Support,"Ana, Mercy, Zenyatta",Snow_(Mikias_Yohannes)

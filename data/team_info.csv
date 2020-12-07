@@ -1,40 +1,187 @@
 ,OWL City,Location,Team Name
 0,Atlanta,United States,Atlanta Reign
-1,Boston,United States,Boston Uprising
-2,Dallas,United States,Dallas Fuel
-3,Miami-Orlando,United States,Florida Mayhem
-4,Guangzhou,China,Guangzhou Charge
-5,Hangzhou,China,Hangzhou Spark
-6,Houston,United States,Houston Outlaws
-7,London,United Kingdom,London Spitfire
-8,Los Angeles,United States,Los Angeles Gladiators
-9,Los Angeles,United States,Los Angeles Valiant
-10,New York,United States,New York Excelsior
-11,Paris,France,Paris Eternal
-12,Philadelphia,United States,Philadelphia Fusion
-13,San Francisco,United States,San Francisco Shock
-14,Seoul,South Korea,Seoul Dynasty
-15,Shanghai,China,Shanghai Dragons
-16,Toronto,Canada,Toronto Defiant
-17,Vancouver,Canada,Vancouver Titans
-18,Washington,United States,Washington Justice
-19,Atlanta,United States,Atlanta Reign
-20,Boston,United States,Boston Uprising
+1,Atlanta,United States,Atlanta Reign
+2,Atlanta,United States,Atlanta Reign
+3,Atlanta,United States,Atlanta Reign
+4,Atlanta,United States,Atlanta Reign
+5,Atlanta,United States,Atlanta Reign
+6,Atlanta,United States,Atlanta Reign
+7,Boston,United States,Boston Uprising
+8,Boston,United States,Boston Uprising
+9,Boston,United States,Boston Uprising
+10,Boston,United States,Boston Uprising
+11,Boston,United States,Boston Uprising
+12,Boston,United States,Boston Uprising
+13,Boston,United States,Boston Uprising
+14,Boston,United States,Boston Uprising
+15,Boston,United States,Boston Uprising
+16,Boston,United States,Boston Uprising
+17,Boston,United States,Boston Uprising
+18,Chengdu,China,Chengdu_Hunters
+19,Chengdu,China,Chengdu_Hunters
+20,Chengdu,China,Chengdu_Hunters
 21,Chengdu,China,Chengdu_Hunters
-22,Dallas,United States,Dallas Fuel
-23,Miami-Orlando,United States,Florida Mayhem
-24,Guangzhou,China,Guangzhou Charge
-25,Hangzhou,China,Hangzhou Spark
-26,Houston,United States,Houston Outlaws
-27,London,United Kingdom,London Spitfire
-28,Los Angeles,United States,Los Angeles Gladiators
-29,Los Angeles,United States,Los Angeles Valiant
-30,New York,United States,New York Excelsior
-31,Paris,France,Paris Eternal
-32,Philadelphia,United States,Philadelphia Fusion
-33,San Francisco,United States,San Francisco Shock
-34,Seoul,South Korea,Seoul Dynasty
-35,Shanghai,China,Shanghai Dragons
-36,Toronto,Canada,Toronto Defiant
-37,Vancouver,Canada,Vancouver Titans
-38,Washington,United States,Washington Justice
+22,Chengdu,China,Chengdu_Hunters
+23,Chengdu,China,Chengdu_Hunters
+24,Chengdu,China,Chengdu_Hunters
+25,Dallas,United States,Dallas Fuel
+26,Dallas,United States,Dallas Fuel
+27,Dallas,United States,Dallas Fuel
+28,Dallas,United States,Dallas Fuel
+29,Dallas,United States,Dallas Fuel
+30,Dallas,United States,Dallas Fuel
+31,Dallas,United States,Dallas Fuel
+32,Dallas,United States,Dallas Fuel
+33,Dallas,United States,Dallas Fuel
+34,Dallas,United States,Dallas Fuel
+35,Miami-Orlando,United States,Florida Mayhem
+36,Miami-Orlando,United States,Florida Mayhem
+37,Miami-Orlando,United States,Florida Mayhem
+38,Miami-Orlando,United States,Florida Mayhem
+39,Miami-Orlando,United States,Florida Mayhem
+40,Miami-Orlando,United States,Florida Mayhem
+41,Miami-Orlando,United States,Florida Mayhem
+42,Miami-Orlando,United States,Florida Mayhem
+43,Miami-Orlando,United States,Florida Mayhem
+44,Miami-Orlando,United States,Florida Mayhem
+45,Guangzhou,China,Guangzhou Charge
+46,Guangzhou,China,Guangzhou Charge
+47,Guangzhou,China,Guangzhou Charge
+48,Guangzhou,China,Guangzhou Charge
+49,Guangzhou,China,Guangzhou Charge
+50,Guangzhou,China,Guangzhou Charge
+51,Guangzhou,China,Guangzhou Charge
+52,Hangzhou,China,Hangzhou Spark
+53,Hangzhou,China,Hangzhou Spark
+54,Hangzhou,China,Hangzhou Spark
+55,Hangzhou,China,Hangzhou Spark
+56,Hangzhou,China,Hangzhou Spark
+57,Hangzhou,China,Hangzhou Spark
+58,Hangzhou,China,Hangzhou Spark
+59,Houston,United States,Houston Outlaws
+60,Houston,United States,Houston Outlaws
+61,Houston,United States,Houston Outlaws
+62,Houston,United States,Houston Outlaws
+63,Houston,United States,Houston Outlaws
+64,Houston,United States,Houston Outlaws
+65,Houston,United States,Houston Outlaws
+66,Houston,United States,Houston Outlaws
+67,Houston,United States,Houston Outlaws
+68,Houston,United States,Houston Outlaws
+69,London,United Kingdom,London Spitfire
+70,London,United Kingdom,London Spitfire
+71,London,United Kingdom,London Spitfire
+72,London,United Kingdom,London Spitfire
+73,London,United Kingdom,London Spitfire
+74,London,United Kingdom,London Spitfire
+75,London,United Kingdom,London Spitfire
+76,London,United Kingdom,London Spitfire
+77,London,United Kingdom,London Spitfire
+78,London,United Kingdom,London Spitfire
+79,London,United Kingdom,London Spitfire
+80,London,United Kingdom,London Spitfire
+81,Los Angeles,United States,Los Angeles Gladiators
+82,Los Angeles,United States,Los Angeles Gladiators
+83,Los Angeles,United States,Los Angeles Gladiators
+84,Los Angeles,United States,Los Angeles Gladiators
+85,Los Angeles,United States,Los Angeles Gladiators
+86,Los Angeles,United States,Los Angeles Gladiators
+87,Los Angeles,United States,Los Angeles Gladiators
+88,Los Angeles,United States,Los Angeles Gladiators
+89,Los Angeles,United States,Los Angeles Gladiators
+90,Los Angeles,United States,Los Angeles Gladiators
+91,Los Angeles,United States,Los Angeles Gladiators
+92,Los Angeles,United States,Los Angeles Gladiators
+93,Los Angeles,United States,Los Angeles Valiant
+94,Los Angeles,United States,Los Angeles Valiant
+95,Los Angeles,United States,Los Angeles Valiant
+96,Los Angeles,United States,Los Angeles Valiant
+97,Los Angeles,United States,Los Angeles Valiant
+98,Los Angeles,United States,Los Angeles Valiant
+99,Los Angeles,United States,Los Angeles Valiant
+100,Los Angeles,United States,Los Angeles Valiant
+101,Los Angeles,United States,Los Angeles Valiant
+102,Los Angeles,United States,Los Angeles Valiant
+103,Los Angeles,United States,Los Angeles Valiant
+104,New York,United States,New York Excelsior
+105,New York,United States,New York Excelsior
+106,New York,United States,New York Excelsior
+107,New York,United States,New York Excelsior
+108,New York,United States,New York Excelsior
+109,New York,United States,New York Excelsior
+110,New York,United States,New York Excelsior
+111,New York,United States,New York Excelsior
+112,New York,United States,New York Excelsior
+113,New York,United States,New York Excelsior
+114,New York,United States,New York Excelsior
+115,New York,United States,New York Excelsior
+116,Paris,France,Paris Eternal
+117,Paris,France,Paris Eternal
+118,Paris,France,Paris Eternal
+119,Paris,France,Paris Eternal
+120,Paris,France,Paris Eternal
+121,Paris,France,Paris Eternal
+122,Philadelphia,United States,Philadelphia Fusion
+123,Philadelphia,United States,Philadelphia Fusion
+124,Philadelphia,United States,Philadelphia Fusion
+125,Philadelphia,United States,Philadelphia Fusion
+126,Philadelphia,United States,Philadelphia Fusion
+127,Philadelphia,United States,Philadelphia Fusion
+128,Philadelphia,United States,Philadelphia Fusion
+129,Philadelphia,United States,Philadelphia Fusion
+130,Philadelphia,United States,Philadelphia Fusion
+131,Philadelphia,United States,Philadelphia Fusion
+132,Philadelphia,United States,Philadelphia Fusion
+133,Philadelphia,United States,Philadelphia Fusion
+134,San Francisco,United States,San Francisco Shock
+135,San Francisco,United States,San Francisco Shock
+136,San Francisco,United States,San Francisco Shock
+137,San Francisco,United States,San Francisco Shock
+138,San Francisco,United States,San Francisco Shock
+139,San Francisco,United States,San Francisco Shock
+140,San Francisco,United States,San Francisco Shock
+141,San Francisco,United States,San Francisco Shock
+142,San Francisco,United States,San Francisco Shock
+143,San Francisco,United States,San Francisco Shock
+144,San Francisco,United States,San Francisco Shock
+145,Seoul,South Korea,Seoul Dynasty
+146,Seoul,South Korea,Seoul Dynasty
+147,Seoul,South Korea,Seoul Dynasty
+148,Seoul,South Korea,Seoul Dynasty
+149,Seoul,South Korea,Seoul Dynasty
+150,Seoul,South Korea,Seoul Dynasty
+151,Seoul,South Korea,Seoul Dynasty
+152,Seoul,South Korea,Seoul Dynasty
+153,Seoul,South Korea,Seoul Dynasty
+154,Seoul,South Korea,Seoul Dynasty
+155,Seoul,South Korea,Seoul Dynasty
+156,Shanghai,China,Shanghai Dragons
+157,Shanghai,China,Shanghai Dragons
+158,Shanghai,China,Shanghai Dragons
+159,Shanghai,China,Shanghai Dragons
+160,Shanghai,China,Shanghai Dragons
+161,Shanghai,China,Shanghai Dragons
+162,Shanghai,China,Shanghai Dragons
+163,Shanghai,China,Shanghai Dragons
+164,Shanghai,China,Shanghai Dragons
+165,Shanghai,China,Shanghai Dragons
+166,Shanghai,China,Shanghai Dragons
+167,Toronto,Canada,Toronto Defiant
+168,Toronto,Canada,Toronto Defiant
+169,Toronto,Canada,Toronto Defiant
+170,Toronto,Canada,Toronto Defiant
+171,Toronto,Canada,Toronto Defiant
+172,Toronto,Canada,Toronto Defiant
+173,Vancouver,Canada,Vancouver Titans
+174,Vancouver,Canada,Vancouver Titans
+175,Vancouver,Canada,Vancouver Titans
+176,Vancouver,Canada,Vancouver Titans
+177,Vancouver,Canada,Vancouver Titans
+178,Vancouver,Canada,Vancouver Titans
+179,Vancouver,Canada,Vancouver Titans
+180,Washington,United States,Washington Justice
+181,Washington,United States,Washington Justice
+182,Washington,United States,Washington Justice
+183,Washington,United States,Washington Justice
+184,Washington,United States,Washington Justice
+185,Washington,United States,Washington Justice
