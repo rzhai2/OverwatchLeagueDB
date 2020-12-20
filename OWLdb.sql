@@ -106,14 +106,12 @@ DELIMITER |
 DROP PROCEDURE IF EXISTS proc_1;
 CREATE PROCEDURE proc_1()
 BEGIN
-    SELECT Temp1.PlayerName, Temp2.TeamName AS CurrTeam
-    FROM (  SELECT PlayerName, COUNT(TeamName) AS NumTeam
-            FROM ServesIn
-            GROUP BY PlayerName) AS Temp1 LEFT OUTER JOIN
-         (  SELECT PlayerName, TeamName
-            FROM ServesIn
-            WHERE EndDate IS NULL) AS Temp2 ON Temp1.PlayerName = Temp2.PlayerName
-    WHERE Temp1.NumTeam >= 2;
+    SELECT MPS.PlayerName, M.StartDate, MPS.TeamName, M.MatchLoser
+    FROM MapPlayerStat AS MPS, Match AS M
+    WHERE MPS.MatchID = M.MatchID AND MPS.TeamName = M.MatchWinner AND
+        EXISTS (    SELECT * 
+                    FROM ServesIn 
+                    WHERE ServesIn.TeamName = M.MatchLoser);
 END;
 |
 
