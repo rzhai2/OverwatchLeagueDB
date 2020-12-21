@@ -24,10 +24,10 @@ else {
     if(mysqli_multi_query($connection, $query)) {
         if($result = mysqli_store_result($connection)) {
             echo "<table border=1>\n";
-            echo "<tr><td>Player</td><td>PlayerTeam</td><td>MatchDate</td><td>OpponentTeam</td><td>DeadliftSize</td></tr>\n";
+            echo "<tr><td>Player</td><td>PlayerTeam</td><td>MatchDate</td><td>OpponentTeam</td><td>MapName</td><td>DeadliftSize</td></tr>\n";
             while($row = mysqli_fetch_row($result)) {
-                printf("<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>\n", 
-                    $row[0], $row[1], $row[2], $row[3], $row[4]);
+                printf("<tr><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td></tr>\n", 
+                    $row[0], $row[1], $row[2], $row[3], $row[4], $row[5]);
             }
             mysqli_free_result($result);
         }

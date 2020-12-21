@@ -214,7 +214,7 @@ DELIMITER |
 DROP PROCEDURE IF EXISTS proc_7;
 CREATE PROCEDURE proc_7()
 BEGIN
-    SELECT DISTINCT Temp1.PlayerName, Temp1.TeamName, M.StartDate, Temp3.TeamName AS OpponentTeam, Temp1.MapName, Temp1.MatchID,
+    SELECT DISTINCT Temp1.PlayerName, Temp1.TeamName, M.StartDate, Temp3.TeamName AS OpponentTeam, Temp1.MapName,
         (Temp1.PlayerFinalBlow * 2 / Temp2.TeamFinalBlow) AS DeadliftSize
     FROM (  SELECT MPS.MatchID, MPS.MapName, MPS.PlayerName, MPS.TeamName, MPS.StatAmount AS PlayerFinalBlow
             FROM MapPlayerStat AS MPS NATURAL INNER JOIN PlaysMap AS PM
