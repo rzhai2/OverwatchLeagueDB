@@ -1,3 +1,6 @@
+<head>
+    <title>Database Final Project</title>
+</head>
 <body>
 
  <?php

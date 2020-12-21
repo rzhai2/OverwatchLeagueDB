@@ -4,7 +4,7 @@ CREATE PROCEDURE player_winning(PName VARCHAR(50))
 BEGIN
     SELECT PlayerName, WinningRate
     FROM Predict 
-    WHERE PlayerName = PName
+    WHERE PlayerName = PName;
 END;
 |
 
@@ -15,7 +15,7 @@ BEGIN
     SELECT PlayerName, WinningRate
     FROM Predict 
     WHERE PlayerName = PName1 OR PlayerName = PName2
-    ORDER BY WinningRate
+    ORDER BY WinningRate;
 END;
 |
 
@@ -25,6 +25,6 @@ CREATE PROCEDURE player_ranking()
 BEGIN
     SELECT *
     FROM Predict 
-    ORDER BY WinningRate DESC
+    ORDER BY WinningRate DESC;
 END;
 |

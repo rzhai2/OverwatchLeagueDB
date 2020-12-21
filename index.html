@@ -7,6 +7,9 @@
     <title>Database for Overwatch League</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/styles.css">
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.min.js"></script>
     <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
   </head>
@@ -34,7 +37,7 @@
     <div class="container">
       <div class="row questions">
         <img class="col-4" id="question" src="images/players.png" alt="question 1">
-        <form class="col-6 action="1.php" method="post">
+        <form class="col-6" action="1.php" method="post">
           <a id="question" class="col-6">See a list of all players who have served in at least two OWL teams. The list also includes the teams the players are currently serving.
           </a><br>
           <button id="submit" class="btn" type="Submit">Get the list</button>
@@ -43,7 +46,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players2.png" alt="question 2">
-        <form class="col-6 action="2.php" method="post">
+        <form class="col-6" action="2.php" method="post">
           <a class="col-6" id="question">See a list of players(name, team and role) who have played at least 3 different heroes in one match. The list also contains the date, tournament title of the match, and their opponent team in the match. Order by the number of heroes in descending order.</a><br>
           <button id="submit" class="btn" type="Submit">Get the list</button>
         </form>
@@ -51,7 +54,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players3.png" alt="question 3">
-        <form class="col-6 action="3.php" method="post">
+        <form class="col-6" action="3.php" method="post">
           <a id="question">
           Name of the player: <input type="text" name="Player" class="form-control"> <br>
           See a list of all the players this player has defeated, together with the number of heroes this player has used, the date, the tournament title, his team, and the opponent team.</a><br>
@@ -63,7 +66,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/heroes1.png" alt="question 4">
-        <form class="col-6 action="4.php" method="post">
+        <form class="col-6" action="4.php" method="post">
           <a id="question">
           Tournament Title: <input type="text" name="TournamentTitle" class="form-control"> <br>
           See a list of the top 3 used heroes (in terms of total Time Played) of each of the 3 roles (Tank, DPS, Support) used in all matches in this tournament, respectively.</a> <br>
@@ -74,7 +77,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players4.png" alt="question 5">
-        <form class="col-6 action="5.php" method="post">
+        <form class="col-6" action="5.php" method="post">
           <a id="question">
             Tournament Title: <input type="text" name="TournamentTitle" class="form-control"> <br>
             See a list of the top 10 players who have spent the greatest percentage of time respawning, meaning that they have the lowest Time Alive/Time Played ratio in this tournament.</a><br>
@@ -84,7 +87,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players5.png" alt="question 6">
-        <form class="col-6 action="6.php" method="post">
+        <form class="col-6" action="6.php" method="post">
           <a id="question">
             Tournament Title: <input type="text" name="TournamentTitle" class="form-control"> <br>
             Name of Hero: <input type="text" name="Hero" class="form-control"> <br>
@@ -95,7 +98,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players6.png" alt="question 7">
-        <form class="col-6 action="7.php" method="post">
+        <form class="col-6" action="7.php" method="post">
           <a class="col-6" id="question">See a list of all players who have performed a Fleta Deadlift, their team, the date of the match, their opponent in the match, the map, and the size of the Fleta Deadlift.</a><br>
           <button id="submit" class="btn" type="Submit">Get the list</button>
         </form>
@@ -103,7 +106,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players7.png" alt="question 6">
-        <form class="col-6 action="8.php" method="post">
+        <form class="col-6" action="8.php" method="post">
           <a id="question">
             Tournament Title: <input type="text" name="TournamentTitle" class="form-control"> <br>
             Name of Team: <input type="text" name="Team" class="form-control"> <br>
@@ -115,7 +118,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players8.png" alt="question 6">
-        <form class="col-6 action="9.php" method="post">
+        <form class="col-6" action="9.php" method="post">
           <a id="question">
             Tournament Title: <input type="text" name="TournamentTitle" class="form-control"> <br>
             See a list of the name and date of all CONTROL type maps played in this tournament, where all rounds finish with control percentage 100-99 or 99-100. Also list the two teams in the match.</a><br>
@@ -125,7 +128,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players9.png" alt="question 6">
-        <form class="col-6 action="10.php" method="post">
+        <form class="col-6" action="10.php" method="post">
           <a class="col-6" id="question">See a list of top 20 players of role Support. The list includes their team, and the date of the match, where the player heals the greatest percentage of the damage taken by the whole team in that match. One player can have multiple occurrences on the list.</a><br>
           <button type="Submit" class="btn" id="submit">Get the list</button>
         </form>
@@ -133,7 +136,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players10.png" alt="question 6">
-        <form class="col-6 action="11.php" method="post">
+        <form class="col-6" action="11.php" method="post">
          <a class="col-6" id="question">See a list of the top 5 players who play hero Mercy and have the highest final blow per 10min.</a><br>
          <button type="Submit" class="btn" id="submit">Get the list</button>
        </form>
@@ -141,7 +144,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players11.png" alt="question 6">
-        <form class="col-6 action="12.php" method="post">
+        <form class="col-6" action="12.php" method="post">
           <a class="col-6" id="question">See a list of all players and their role who have played a hero with the role different from the player’s role from all mathces played after 1/1/2020. The list includes the name and role of the hero. If the hero is Tank or DPS, the list will include its damage/10min. If the hero is Support, the list will include its healing/10min.</a><br>
           <button type="Submit" class="btn" id="submit">Get the list</button>
         </form>
@@ -149,7 +152,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/players_better.png" alt="question 6">
-        <form class="col-6 action="13.php" method="post">
+        <form class="col-6" action="13.php" method="post">
           <a id="question">
             Player Name (Use only lower case): <input type="text" name="PName" class="form-control"> <br>
             See this player's winning rate.
@@ -160,7 +163,7 @@
 
       <div class="row questions">
         <img class="col-4" id="question" src="images/teams.png" alt="question 6">
-        <form class="col-6 action="14.php" method="post">
+        <form class="col-6" action="14.php" method="post">
           <a id="question">
             Player 1 (in lower case): <input type="text" name="PName1" class="form-control"> <br>
             Player 2 (in lower case): <input type="text" name="PName2" class="form-control"> <br>
@@ -171,8 +174,8 @@
       </div> <!--question14-->
 
       <div class="row questions">
-        <img class="col-4" id="question" src="images/ranking.png" alt="question 6">
-        <form class="col-6 action="15.php" method="post">
+        <img class="form-group col-4" id="question" src="images/ranking.png" alt="question 6">
+        <form class="col-6" action="15.php" method="post">
           <a id="question">
             See all players' winning rate and rank from high to low.
             </a><br>
